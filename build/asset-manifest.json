@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Live-Code-Editor/static/css/main.26020490.css",
+    "main.js": "/Live-Code-Editor/static/js/main.8b1c1b9d.js",
+    "static/js/453.9ed74c0c.chunk.js": "/Live-Code-Editor/static/js/453.9ed74c0c.chunk.js",
+    "index.html": "/Live-Code-Editor/index.html",
+    "main.26020490.css.map": "/Live-Code-Editor/static/css/main.26020490.css.map",
+    "main.8b1c1b9d.js.map": "/Live-Code-Editor/static/js/main.8b1c1b9d.js.map",
+    "453.9ed74c0c.chunk.js.map": "/Live-Code-Editor/static/js/453.9ed74c0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26020490.css",
+    "static/js/main.8b1c1b9d.js"
+  ]
+}
